@@ -1,0 +1,5 @@
+/*Fő stíluslap*/
+header, nav, section, article, footer 
+{
+    border: 1px, dashed, red
+}
